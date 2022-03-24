@@ -1,0 +1,13 @@
+//Questions to do :-
+/*
+//Questions to do today->
+1.Create a class stud(name roll age,) parameterixzed constructor .initiliase. take value from user. then display.Create a default constructor also.
+display info of at least 10 students. Using array of objects.
+
+2.Stud->Result(m1,m2,m3) Display name, rollno,age,percentage of marks.
+
+3-> Using command line arguments take an integer,float,double.Use a wrapper class to convert reference type to value type.add all three values .then display.
+
+4->Create two or three constructors and a normal method with same name. Call everything. Implement what was taught in last classes using the same.
+
+*/
