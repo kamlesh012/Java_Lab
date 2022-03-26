@@ -4,6 +4,9 @@ Create a default constructor also.
 Display info of at least 10 students.
 Using array of objects.
 2.Stud->Result(m1,m2,m3) Display name, rollno,age,percentage of marks.
+
+<________________________________________________________________Used Constructor in this version___________________________________________>
+
 */
 //Improvement:-Derieved class is by default calling base class' default constructor.
 //How can we call parameterized constructor of Base class using derievd class? Using SUper keyword.Don't know how to use that though.
@@ -65,7 +68,7 @@ void disp(){
 
 }
 
-public class Better_Second{
+public class Second_Constructor{
 	public static void main(String [] a)
 	{
 
