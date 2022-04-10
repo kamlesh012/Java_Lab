@@ -6,7 +6,9 @@ public class fourth{
 	System.out.println("ENTER Your NUMBER");
 	Scanner inp=new Scanner(System.in);
 	int n=inp.nextInt();
+		
     //Logic! :my logic to reverse it & then reverse it back
+		//Optional
 /*	int ans=0;
 	int m=n;	
 	while(n>0)
@@ -29,17 +31,18 @@ public class fourth{
 
 /*Logic 2*/
 	int m=n;
-int number=0,i=0;
+	int number=0,i=0;
 	while(m>0){
 
 	if(m%10==0){
-number=(int)(number+(Math.pow(10,i)*1));
-}
+		number=(int)(number+(Math.pow(10,i)*1));
+	}
 
-else number=(int)(number+(Math.pow(10,i)*(m%10)));
-m/=10;
-//System.out.println(Math.pow(10,i));
-i++;
+	else 
+		number=(int)(number+(Math.pow(10,i)*(m%10)));
+	m/=10;
+	//System.out.println(Math.pow(10,i));
+	i++;
 
 	}
 	System.out.println(number);
