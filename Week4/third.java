@@ -1,3 +1,4 @@
+//Third
 //Check if two numbers are friendly pair or not
 import java.util.*;
 
