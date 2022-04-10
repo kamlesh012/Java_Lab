@@ -1,3 +1,4 @@
+//First
 ////WAP to arrange an array in zig zag pattern
 import java.util.*;
 public class first{
@@ -13,13 +14,7 @@ public class first{
 	for(int i=0;i<n;i++){
 	a[i]=inp.nextInt();
 	}
-/*
-	System.out.println("Original Array is");
-	for(int i=0;i<n;i++){
-	System.out.print(a[i]+" ");
-	}
 
-*/
 	for(int i=0;i<n-1;i++){
 		if( i%2==0 && a[i]>a[i+1] ){
 	
@@ -38,7 +33,7 @@ public class first{
 	System.out.println("ZigZag Array is");
 	for(int i=0;i<n;i++){
 	System.out.print(a[i]+" ");
-}
+	}
 
 
 	
