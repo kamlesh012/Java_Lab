@@ -1,4 +1,5 @@
-//Create a menu driven program Use switch cases to get maturity amount using term deposti & recurring deposit.
+//Second
+//Create a menu driven program Use switch cases to get maturity amount using term deposit & recurring deposit.
 import java.util.*;
 
 public class second{
